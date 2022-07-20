@@ -2,7 +2,7 @@
 
 <div>
   <a href="http://beacons.ai/ariana-vidal">
-   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ariana-vidal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180px" width"50px" src="https://github-readme-stats.vercel.app/api?username=ariana-vidal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariana-vidal&layout=compact&langs_count=16&show_icons=true&theme=dracula"/>
 </div>
 
