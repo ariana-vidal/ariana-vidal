@@ -1,4 +1,5 @@
 ### Olá! Eu sou a Ariana Vidal
+#### Email: barbosavidala@gmail.com
 
 <div>
 <a href="https://github.com/ariana-vidal">
